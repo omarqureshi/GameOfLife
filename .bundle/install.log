@@ -1,0 +1,7 @@
+# Logfile created on 2014-02-16 13:12:01 +0000 by logger.rb/44203
+I, [2014-02-16T13:12:01.922823 #65953]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/omarqureshi/.rvm/gems/ruby-2.1.0@game_of_life/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-02-16T13:12:02.717876 #65953]  INFO -- : 0:  rspec-core (2.14.7) from /Users/omarqureshi/.rvm/gems/ruby-2.1.0@game_of_life/specifications/rspec-core-2.14.7.gemspec
+I, [2014-02-16T13:12:03.394533 #65953]  INFO -- : 0:  rspec-expectations (2.14.5) from /Users/omarqureshi/.rvm/gems/ruby-2.1.0@game_of_life/specifications/rspec-expectations-2.14.5.gemspec
+I, [2014-02-16T13:12:05.584231 #65953]  INFO -- : 0:  rspec-mocks (2.14.5) from /Users/omarqureshi/.rvm/gems/ruby-2.1.0@game_of_life/specifications/rspec-mocks-2.14.5.gemspec
+I, [2014-02-16T13:12:07.163030 #65953]  INFO -- : 0:  rspec (2.14.1) from /Users/omarqureshi/.rvm/gems/ruby-2.1.0@game_of_life/specifications/rspec-2.14.1.gemspec
+I, [2014-02-16T13:12:07.163485 #65953]  INFO -- : 0:  bundler (1.5.1) from /Users/omarqureshi/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
